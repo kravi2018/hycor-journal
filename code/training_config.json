@@ -1,0 +1,10 @@
+{ "n_hidden": 200,
+  "embedding_size": 300 ,
+  "dropout_keep_prob": 0.62,
+  "filter_sizes": "3,4,5",
+  "num_feature_maps": 100,
+  "rnn_out_window": 1.00 ,
+  "learning_rate": 0.001,
+  "batch_size": 64 ,
+  "n_epochs": 10,
+  "display_step": 10 }
